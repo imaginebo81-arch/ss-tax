@@ -1,0 +1,6 @@
+{
+  "name": "S.S. Tax Consultancy",
+  "description": "Expert tax and legal consultancy services specializing in Income Tax, GST, Accounting, and Business Registration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
